@@ -13,7 +13,7 @@ for (let user of users){      //recorremos el array y sacamos los nombres (name)
     totalVolume += favouriteSound.volume; // aqui hemos calculado el total del volumen / es lo mismo - totalVolume = totalVolume + favouriteSound.volume
         numberOfSounds++; // vamos a calcular el numero de sonidos - cada vez que sumemos un sonido al volumen total sumamos 1 sonido al numero de sonidos , asi contamos el numero de sonidos que tenemos
 
-     /*    console.log(key, userFavoritesSounds[key]); / //para acceder con variables hay que poner los []
+      console.log(key, userFavoritesSounds[key]); / //para acceder con variables hay que poner los []
 
     }
 

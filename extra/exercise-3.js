@@ -36,7 +36,7 @@ const users = [
         }
     },
 ]
-/************************************************ SOLO COMO RECORDATORIO --> este fue el ejercicio en el que dijiste que tenía un punto extra (guiño, guiño)*************************************** */
+/************************************************ SOLO COMO RECORDATORIO --> este fue el ejercicio en el que dijiste que tenía un punto extra (guiño, guiño) *************************************** */
 
 
 
